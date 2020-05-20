@@ -1,0 +1,14 @@
+body{background-color: rgba(0, 238, 255, 0.397);
+margin-left:30px ;
+margin-right:100px ;}
+header{margin-top:40px;}
+h1{
+color: gray;    
+font-family:Verdana;
+}
+
+p{font-size: 18px;}
+h2{margin-top:100px;}
+
+.img_padrao{margin-bottom:20px;width:200px;}
+p{Desenvolvido por Jeferson;font-size:15px;}
